@@ -36,3 +36,12 @@ Use of if-else or switch-case statements to decide which operation to perform.
 Input Handling:
 Using Scanner to get user inputs.
 Data validation to ensure valid numbers and operations.
+
+# ScreenShots : 
+
+![Simple_Calculator Snapshot1](https://github.com/user-attachments/assets/af9cce44-d8d9-4265-bda1-649969ce9cb8)
+![Simple_Calculator Snapshot2](https://github.com/user-attachments/assets/56a27d17-fc84-4d69-9ce4-dc5e75c4d7e4)
+![Simple_Calculator Snapshot3](https://github.com/user-attachments/assets/a4784944-3d41-4c9c-a7c6-ca9f2a48209a)
+
+
+
